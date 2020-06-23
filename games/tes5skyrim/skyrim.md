@@ -40,8 +40,6 @@ unreadbooksglow.esp
 
 ```
 
- nvbng
-
 #### Other mods installed
 
 #### Via steam
