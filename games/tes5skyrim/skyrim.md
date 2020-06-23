@@ -40,10 +40,23 @@ unreadbooksglow.esp
 
 ```
 
-
+ nvbng
 
 #### Other mods installed
 
+#### Via steam
 
-- [Augmente le cap maximal de vol à la tire jusqu'à 100](100 percent Max Pickpocket Chance)
-- [Détecter les livres non lus]()
+- [100pMaxPickpocketChance](https://steamcommunity.com/sharedfiles/filedetails/?id=208193987)
+- [Détecter les livres non lus](https://steamcommunity.com/sharedfiles/filedetails/?id=9846)
+
+
+#### Via Nexus Mod
+
+- [Auto Harvest](https://www.nexusmods.com/skyrim/mods/10067?tab=files)
+- [Souls to perk](https://www.nexusmods.com/skyrim/mods/18395?tab=files)
+
+Download the files and add their names in `/path/to/steamapps/compatdata/72850/pfx/drive_c/users/steamuser/Local Settings/Application Data/Skyrim/plugins.txt` .
+ 
+
+Auto harvest requires to learn and launch a spell (Get the spell by going to Whiterun and looking on the court wizard's
+desk (where you get the quest to get the stone tablet.)
