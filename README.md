@@ -7,3 +7,4 @@
   - [Total War : Empire](/games/total_war_empire/total_war_empire.md)
   - [Total War : Napoleon](/games/total_war_napoleon/total_war_napoleon.md)
   - [Victoria 2](/games/victoria2/victoria2.md)
+  - [We. The Revolution](/games/)

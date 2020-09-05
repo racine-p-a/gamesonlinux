@@ -48,13 +48,14 @@ unreadbooksglow.esp
 - [Détecter les livres non lus](https://steamcommunity.com/sharedfiles/filedetails/?id=9846)
 
 
-#### Via Nexus Mod
+#### Via Nexus Mod or la confrérie des traducteurs
 
 - [Auto Harvest](https://www.nexusmods.com/skyrim/mods/10067?tab=files)
+- [EFF - Système avancé de compagnons](https://www.confrerie-des-traducteurs.fr/skyrim/mods/278/personnages/compagnons/eff___systeme_avance_de_compagnons)
 - [Souls to perk](https://www.nexusmods.com/skyrim/mods/18395?tab=files)
-
-Download the files and add their names in `/path/to/steamapps/compatdata/72850/pfx/drive_c/users/steamuser/Local Settings/Application Data/Skyrim/plugins.txt` .
- 
 
 Auto harvest requires to learn and launch a spell (Get the spell by going to Whiterun and looking on the court wizard's
 desk (where you get the quest to get the stone tablet.)
+
+Download the files and add their names in `/path/to/steamapps/compatdata/72850/pfx/drive_c/users/steamuser/Local Settings/Application Data/Skyrim/plugins.txt` .
+ 
