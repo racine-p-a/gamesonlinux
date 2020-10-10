@@ -2,6 +2,8 @@
 
 ## Installation
 
+### Steam-linux 
+
 The steam version works using these launch options : `__GL_ExtensionStringVersion=17700 %command% +set r_ignorehwgamma 1__GL_ExtensionStringVersion=17700 %command% +set r_ignorehwgamma 1`
 
 ## Problems
