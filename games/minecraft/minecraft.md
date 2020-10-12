@@ -12,7 +12,6 @@
 
 ## Host you own minecraft server
 
-
 ### Open the port dedicated to minecraft
 
 ```shell script
@@ -137,3 +136,14 @@ When you have your server's public IP address, try to connect to it.
 - click on ***new server***
 - fill up the two fields. You can choose the name as you want, but the address is
 ***« ip_address:port_number_you_chose_at_beginning »*** (example : 90.124.65.32:25565)
+
+
+### Customize your minecraft server
+
+todo use screen (https://www.digitalocean.com/community/tutorials/how-to-create-a-minecraft-server-on-ubuntu-20-04-fr)
+todo server.properties
+todo more ram for the server
+todo banned-ips.json
+todo banned-players.json
+todo whitelist.json
+todo add packs
