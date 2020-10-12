@@ -10,7 +10,10 @@
 
 -[Crop farming](https://minecraft.gamepedia.com/Tutorials/Crop_farming)
 
-## Host you own minecraft server
+## Host your own minecraft server
+
+We are going to explain how to create a minecraft server on a local network and how players from within the server and
+outside can connect to it.
 
 ### Open the port dedicated to minecraft
 
@@ -25,10 +28,13 @@ You can skip this part if the server and all players are on the same local netwo
 
 This part varies depending on your Internet Service Provider.
 
-#### Example : livebox
+#### Example : livebox for french players
 
 TODO : make an example of using the livebox
 
+#### Example for lambda-players
+
+[A tutorial in english here](https://www.howtogeek.com/289994/how-to-share-your-minecraft-game-over-the-internet/).
 
 ### Grab the server app
 
