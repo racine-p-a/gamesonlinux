@@ -146,9 +146,46 @@ When you have your server's public IP address, try to connect to it.
 
 ### Customize your minecraft server
 
-todo use screen (https://www.digitalocean.com/community/tutorials/how-to-create-a-minecraft-server-on-ubuntu-20-04-fr)
-todo server.properties
-todo more ram for the server
+#### Grant more RAM to the minecraft server
+
+If you think the server processus needs more RAM, just launch it with more in options :
+
+```shell script
+# The classic way.
+java -Xmx1024M -Xms1024M -jar server.jar nogui
+```
+
+You can modify the values of memory allowed to this .jar by modifying the -Xmx and -Xms values.
+
+- -Xmx is the maximal amount of RAM that your computer can allocate to the server.jar . `1024M` = 1024 megabytes = 1 gigabyte.
+If you want to authorize it to use more, let's say 2 Gb of RAM, replace it by `-Xmx2048M`
+
+- -Xms is very similar to -Xms. While -Xmx is the maximum quantity of RAM that the `server.jar` can use, -Xms is the
+quantity of RAM you allocate to it since the beginning.
+
+```shell script
+# This way, the server starts with only 1Gb (=1024Mb) of RAM but is authorized to use up to 2Gb (=2048Mb) at will.
+java -Xmx2048M -Xms1024M -jar server.jar nogui
+```
+
+
+```shell script
+# This way, the server uses 2Gb (=2048Mb) whatever the situation
+java -Xmx2048M -Xms2048M -jar server.jar nogui
+```
+
+
+#### Server properties
+
+Log on your server (using ssh, direct connection or whatever). Next to your `server.jar`, you will find a file named
+`server.properties`.
+
+All options are editable, you can find a list of their meanings and values
+[in english here](https://minecraft.gamepedia.com/Server.properties) and
+[in french here](https://minecraft-fr.gamepedia.com/Server.properties).
+
+
+
 todo banned-ips.json
 todo banned-players.json
 todo whitelist.json
