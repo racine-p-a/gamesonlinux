@@ -28,9 +28,9 @@ You can skip this part if the server and all players are on the same local netwo
 
 This part varies depending on your Internet Service Provider.
 
-#### Example : livebox for french players
+Example : [livebox for french players](https://github.com/racine-p-a/megatouille/blob/master/logiciels/livebox/livebox.md#user-content-rediriger-des-donn%C3%A9es-de-lext%C3%A9rieur-vers-une-machine-redirection-de-ports--portforwarding)
 
-TODO : make an example of using the livebox
+
 
 #### Example for lambda-players
 
