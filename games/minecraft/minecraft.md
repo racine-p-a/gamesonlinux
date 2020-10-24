@@ -208,6 +208,5 @@ reproduction of an example of the gamepedia wiki.
 
 #### Add a pack to your server
 
-
-
-todo add packs
+The option named `resource-pack` in the `server.properties` file is what you need. Tutorial
+[here](https://minecraft.gamepedia.com/Tutorials/Server_maintenance#Setting_textures).
