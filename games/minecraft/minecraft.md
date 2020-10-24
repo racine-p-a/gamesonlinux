@@ -185,8 +185,29 @@ All options are editable, you can find a list of their meanings and values
 [in french here](https://minecraft-fr.gamepedia.com/Server.properties).
 
 
+#### Whitelist some players
 
-todo banned-ips.json
-todo banned-players.json
-todo whitelist.json
+Explanation [here](https://minecraft.gamepedia.com/Whitelist.json). For the sake of keeping a copy, here is a
+reproduction of an example of the gamepedia wiki.
+
+```json
+[
+  {
+    "uuid": "f430dbb6-5d9a-444e-b542-e47329b2c5a0",
+    "name": "username"
+  },
+  {
+    "uuid": "e5aa0f99-2727-4a11-981f-dded8b1cd032",
+    "name": "username"
+  }
+]
+```
+- UUID = Universally Unique Identification = player id
+- username = player username
+
+
+#### Add a pack to your server
+
+
+
 todo add packs
