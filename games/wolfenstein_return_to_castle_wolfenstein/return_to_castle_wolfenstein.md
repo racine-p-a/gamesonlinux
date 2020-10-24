@@ -11,15 +11,15 @@ release is the 1.51.c. Download it.
 
 I assume that you are a linux user (it's the point of this project), so you must choose one of the two linux files.
 
-- iortcw-1.51c-linux-x86.zip
-- iortcw-1.51c-linux-x86_64.zip
+- `iortcw-1.51c-linux-x86.zip`
+- `iortcw-1.51c-linux-x86_64.zip`
  
 The first one will always work (but not always as efficiently as it could be). The second works only for 64 bits
 processors (most recent PC).
-In other words, if you have a r/d-ecent PC, pick the [...]linux-x86_64.zip. Otherwise pick the first one (for potato
+In other words, if you have a r/d-ecent PC, pick the `[...]linux-x86_64.zip`. Otherwise pick the first one (for potato
 computers).
 
-Extract the archive where you want Wolfenstein installed. If you want to launch the game in single player mode,
+Extract the archive where you want *Wolfenstein* installed. If you want to launch the game in single player mode,
 use this commandes :
 
 ```shell script
@@ -46,7 +46,7 @@ Then copy the .pk3 files and paste them in the folder named _main_ of therelesa
 ### You do not have a legal version
 
 Well... I am preparing something
-
+todo
 
 # Launching
 
