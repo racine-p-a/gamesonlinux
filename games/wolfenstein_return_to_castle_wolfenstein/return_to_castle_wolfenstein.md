@@ -34,6 +34,15 @@ Aaaaaaaaaaaand it failed. Because you only have the engine files. Now you need t
 
 You still need the game files, the .pk3 files.
 
+For single players, the missing `.pak` files are :
+
+- `pak0.pk3`
+- `sp_pak1.pk3`
+- `sp_pak2.pk3`
+- `sp_pak3.pk3`
+- `sp_pak4.pk3`
+
+
 ### You do have a legal version of the game
 
 Install it somewhere.
@@ -41,12 +50,13 @@ Install it somewhere.
 * on your own linux computer using wine or steam
 * on a windows system (then copy it on USB stick/GoogleDrive/whatever way you prefer)
 
-Then copy the .pk3 files and paste them in the folder named _main_ of therelesa
+Then copy the .pk3 files and paste them in the folder named _main_ of your engine.
 
 ### You do not have a legal version
 
 Well... I am preparing something
-todo
+
+TODO
 
 # Launching
 
