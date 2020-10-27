@@ -86,7 +86,7 @@ Juste execute the launcher :
 
 YES ! MODS ARE SUPPORTED !
 
-Download your mod and place its folder in your game folder.
+Download your mod and place its folder in your game directory.
 
 ## Example of mod installation
 
