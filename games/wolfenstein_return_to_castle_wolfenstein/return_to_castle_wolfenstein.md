@@ -1,3 +1,11 @@
+- [Installation](#installation)
+  1. [Get the engine](#get-the-engine)
+  2. [Get the data files](#get-the-data-files)
+    * [You do have a legal version of the game](#you-do-have-a-legal-version-of-the-game)
+    * [You do not have a legal version](#you-do-not-have-a-legal-version)
+- [Launching](#launching)
+- [Mod support](#mod-support)
+  1. [Example of mod installation](#example-of-mod-installation)
 # Installation
 
 In order to play Return to Castle Wolfenstein, you need two things : the engine and the game files.
@@ -42,6 +50,14 @@ For single players, the missing `.pak` files are :
 - `sp_pak3.pk3`
 - `sp_pak4.pk3`
 
+For multiplayer mode, you will ned those :
+
+- `mp_pak0.pk3`
+- `mp_pak1.pk3`
+- `mp_pak2.pk3`
+- `mp_pak3.pk3`
+- `mp_pak4.pk3`
+- `mp_pak5.pk3`
 
 ### You do have a legal version of the game
 
@@ -72,7 +88,19 @@ YES ! MODS ARE SUPPORTED !
 
 Download your mod and place its folder in your game folder.
 
+## Example of mod installation
 
-piste : 
-https://github.com/id-Software/RTCW-SP
-http://zerowing.idsoftware.com/linux/wolf/
+We are going to download and install a mod from moddb.
+
+Step 1 : Download the mod named Hindenburg on
+[this page](https://www.moddb.com/games/return-to-castle-wolfenstein/addons/hindenburg-v11). You now have a file named
+`hindenburg_v11.zip`.
+
+Step 2 : Unzip it and place it in your ***main*** game directory.
+
+Step 3 : Check all files are in order. You must have something looking like the picture below.
+
+![Return to castle Wolfenstein - mod installation](images/wolfenstein_mod_installation.png "Return to castle Wolfenstein - mod installation")
+The `hindenburg` directory must contain only your two `.pk3` files.
+
+Have fun !
