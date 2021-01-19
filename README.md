@@ -2,6 +2,7 @@
 
 + Games
   - [Call of duty](/games/call_of_duty/call_of_duty.md)
+  - [Duke Nukem 3D](/games/duke_nukem_3d/duke_nukem_3d.md)
   - [Minecraft](/games/minecraft/minecraft.md)
   - [Oddworld: Abe's Oddysee](/games/oddworld_abe_s_oddysee/oddworld_abe_s_oddysee.md)
   - [The Elder Scrolls V : Skyrim](/games/tes5skyrim/skyrim.md)
