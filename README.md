@@ -1,6 +1,7 @@
 # Games on Linux
 
 + Games
+  - [Baldur's Gate](/games/baldur_s_gate/baldur_s_gate.md)
   - [Call of duty](/games/call_of_duty/call_of_duty.md)
   - [Duke Nukem 3D](/games/duke_nukem_3d/duke_nukem_3d.md)
   - [Minecraft](/games/minecraft/minecraft.md)
