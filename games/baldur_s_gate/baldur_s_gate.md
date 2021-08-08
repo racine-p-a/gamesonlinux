@@ -51,6 +51,19 @@ And download the version required.
 sudo apt install libssl1.0.0
 ```
 
+### Bonus
+
+#### Extract files from the game
+
+You can extract any asset (map, sounds, music, ...) using
+[NearInfinity](https://github.com/racine-p-a/NearInfinity/releases/tag/v2.1-20170413). Download the last version
+and launch it :
+```bash
+java -jar NearInfinity.jar
+```
+
+Browse to your game files and watch all assets sorted.
+
 ## Baldur's Gate: Enhanced Edition (version GOG)
 
 ### Installation
@@ -84,7 +97,7 @@ Dans ce cas, sur ubuntu, il faudra faire :
 sudo nano /etc/apt/sources.list
 ```
 
-Et ajoutez cette ligne ào la fin du fichier :
+Et ajoutez cette ligne à la fin du fichier :
 ```text
 deb http://security.ubuntu.com/ubuntu xenial-security main
 ```
@@ -98,3 +111,19 @@ Enfin installez la dépendance manquante :
 ```bash
 sudo apt install libssl1.0.0
 ```
+
+### Bonus
+
+#### Extraire des fichiers du jeu
+
+Vous pouvez extraire n'importe quel composant du jeu (cartes, sons, musique, ...) avec
+[NearInfinity](https://github.com/racine-p-a/NearInfinity/releases/tag/v2.1-20170413). Téléchargez et lancez-le.
+```bash
+java -jar NearInfinity.jar
+```
+
+L'application vous demandera dans quel dossier se trouve le jeu. Une fois que vous lui aurez indiqué, vous pourrez
+parcourir les données à votre guise.
+Notez toutefois que l'application ne lira que les fichiers de base en anglais. Pour extraire les fichiers d'une autre
+langue, une solution possible est de remplacer les fichiers en anglais par ceux que l'on souhaite (pensez à faire une
+sauvegarde des fichiers anglais). 
