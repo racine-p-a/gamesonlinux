@@ -8,6 +8,7 @@
   - [Oddworld: Abe's Oddysee](/games/oddworld_abe_s_oddysee/oddworld_abe_s_oddysee.md)
   - [The Elder Scrolls V : Skyrim](/games/tes5skyrim/skyrim.md)
   - [The Elder Scrolls Online](/games/teso/teso.md)
+  - [Total War : Medieval 2](/games/total_war_medieval_2/total_war_medieval_2.md)
   - [Total War : Empire](/games/total_war_empire/total_war_empire.md)
   - [Total War : Napoleon](/games/total_war_napoleon/total_war_napoleon.md)
   - [Victoria 2](/games/victoria2/victoria2.md)
